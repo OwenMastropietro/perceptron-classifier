@@ -9,7 +9,7 @@ fundamentals of machine learning.
 
 ##
 
-![Single Neuron](images/single_neuron.png)
+![Single Neuron](visuals/single_neuron.png)
 
 ##
 
