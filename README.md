@@ -15,7 +15,7 @@ fundamentals of machine learning.
 
 ## Some commands to run
 
-```Monkey
+```bash
 # Run the program
 go run main.go
 
